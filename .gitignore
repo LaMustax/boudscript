@@ -1,0 +1,5 @@
+# Ne garder que les sources en C :
+# 1. on vire tout ce qui est dans le dossier C
+C/*
+# 2. en on remet les fichiers sources
+!C/*.c
