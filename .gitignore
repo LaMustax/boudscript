@@ -3,3 +3,6 @@
 C/*
 # 2. en on remet les fichiers sources
 !C/*.c
+
+# Nox SMS Backup
+/py/nox_sms_backup/messages
